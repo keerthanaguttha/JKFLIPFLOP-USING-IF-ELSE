@@ -80,7 +80,7 @@ begin
 		 end
 	end
 endmodule
-
+```
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![image](https://github.com/keerthanaguttha/JKFLIPFLOP-USING-IF-ELSE/assets/145742927/929edfa6-881d-4cb1-90cd-08fe3e0af8a4)
